@@ -5,6 +5,24 @@
     
 }
 
+
+
+<form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data">
+
+    <label for="">Nome</label>
+    <input type="text" name="Nome">
+
+    <label for="">Imagem</label>
+    <input type="file" name="Imagem">
+
+    <button type = "submit">Cadastrar</button>
+
+
+
+</form>
+
+
+
 <table> 
     <thead>
         <th>Id</th>
@@ -18,7 +36,9 @@
         <tr>
             <td>@equipe.IdEquipe</td>
             <td>@equipe.Nome</td>
-            <td>@equipe.Imagem</td>
+            <td>
+                <img src="/img/Equipes/@equipe.Imagem" width="50px">           
+                 </td>
 
         </tr>
            }
