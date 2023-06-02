@@ -19,8 +19,9 @@ namespace projeto_gamer_mvc.Infra
             {
                 optionsBuilder.UseSqlServer("Data Source = NOTE09-S15; Initial Catalog = gamerManha; User Id = sa; pwd = Senai@134; TrustServerCertificate = true");
             }
-        }
 
+            
+        }
         public DbSet<Jogador> Jogador {get;set;}
 
         public DbSet<Equipe> Equipe {get;set;}
