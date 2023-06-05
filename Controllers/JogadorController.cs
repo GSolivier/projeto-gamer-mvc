@@ -65,7 +65,7 @@ namespace projeto_gamer_mvc.Controllers
         [Route("Editar/{id}")]
         public IActionResult Editar(int id)
         {
-            Jogador jogadorEditar = new Jogador();
+            Jogador jogadorEditar = c.Jogador.First(x => x.IdJogador == id);
 
             ViewBag.Jogador = jogadorEditar;
 
@@ -95,7 +95,7 @@ namespace projeto_gamer_mvc.Controllers
             jogadorBuscado.Senha = jogadorAtualizado.Senha;
             jogadorBuscado.IdEquipe = jogadorAtualizado.IdEquipe;
 
-            c.Jogador.Update(jogadorAtualizado);
+            c.Jogador.Update(jogadorBuscado);
 
             c.SaveChanges();
 

@@ -12,12 +12,25 @@
 <input placeholder="Digite o seu nome..." type="text" name="Nome" required>
 
 <label for="">Email</label>
-<input type="text" placeholder="Digite seu email..." name="Email" required>
+<input type="email" placeholder="Digite seu email..." name="Email" required>
 
 <label for="">Senha</label>
-<input type="text" placeholder="Digite sua senha" name="Senha" required>
-<label for="">IdEquipe</label>
-<input type="text" placeholder="Digite id equiupe" name="IdEquipe" required>
+<input type="password" placeholder="Digite sua senha" name="Senha" required>
+
+@* <label for="">IdEquipe</label>
+<input type="text" placeholder="Digite id equiupe" name="IdEquipe" required> *@
+
+<select name="IdEquipe" id="IdEquipe"> 
+
+    <option value="0">Selecione a equipe</option>
+
+    @foreach (Equipe equipe in ViewBag.Equipe)
+    {
+    <option value="@equipe.IdEquipe">@equipe.Nome</option>
+        
+    }
+    
+    </select>
 
 <button class="btn btn-warning" type="submit">Cadastrar</button>
 </form>
@@ -30,9 +43,10 @@
         <th>Id</th>
         <th>Nome</th>
         <th>Email</th>
+        @* <th>Equipe</th> *@
+        @* <th>IdEquipe</th> *@
         <th>Equipe</th>
-        <th>IdEquipe</th>
-        <th>Foto</th>
+        <th></th>
         <th></th>
         
     </thead>
@@ -44,8 +58,9 @@
                 <td>@jogador.IdJogador</td>
                 <td>@jogador.Nome</td>
                 <td>@jogador.Email</td>
-                <td>@jogador.IdEquipe</td>
-                @* Realizar a criação do menu posteriormente *@
+                @* <td>@jogador.Equipe.Nome</td> *@
+                @* <td>@jogador.IdEquipe</td> *@
+                <td> <img src="/img/Equipes/@jogador.Equipe.Imagem" width="50px" alt=""></td>
                 <td><a asp-area="" asp-controller="Jogador" asp-action="Excluir" asp-route-id="@jogador.IdJogador" style="text-decoration: none;">🗑️</a></td>
                 <td><a asp-area="" asp-controller="Jogador" asp-action="Editar" asp-route-id="@jogador.IdJogador" style="text-decoration: none;">✏️</a></td>
         </tr>
