@@ -1,48 +1,236 @@
-/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-for details on configuring this project to bundle and minify static web assets. */
-
-a.navbar-brand[b-uplhu3pmtu] {
-  white-space: normal;
-  text-align: center;
-  word-break: break-all;
+@font-face {
+  font-family: "titilium web";
+  src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Black.ttf);
 }
 
-a[b-uplhu3pmtu] {
-  color: #0077cc;
+@font-face {
+  font-family: "quicksand";
+  src: url(../assets/fonts/Quicksand/Quicksand-VariableFont_wght.ttf);
 }
 
-.btn-primary[b-uplhu3pmtu] {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+@font-face {
+  font-family: "inter";
+  src: url(../assets/fonts/Inter/Inter-VariableFont_slnt\,wght.ttf);
 }
 
-.nav-pills .nav-link.active[b-uplhu3pmtu], .nav-pills .show > .nav-link[b-uplhu3pmtu] {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+@font-face {
+  font-family: "titilium web italic" ;
+  src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Italic.ttf);
 }
 
-.border-top[b-uplhu3pmtu] {
-  border-top: 1px solid #e5e5e5;
-}
-.border-bottom[b-uplhu3pmtu] {
-  border-bottom: 1px solid #e5e5e5;
+@font-face {
+  font-family: "titilium web bold";
+  src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Bold.ttf);
 }
 
-.box-shadow[b-uplhu3pmtu] {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+@font-face {
+  font-family: "titilium web regular";
+  src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Regular.ttf);
 }
 
-button.accept-policy[b-uplhu3pmtu] {
-  font-size: 1rem;
-  line-height: inherit;
+@font-face {
+  font-family: 'titilium web black';
+  src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Black.ttf);
+}
+/* RESET */
+
+*[b-uplhu3pmtu] {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.footer[b-uplhu3pmtu] {
-  position: absolute;
-  bottom: 0;
+/* configuracoes genericas */
+
+.mostrarMenu[b-uplhu3pmtu]{
+  left: 0 !important;
+  opacity: 1 !important;
+}
+.mostrarMenuDireita[b-uplhu3pmtu]{
+  right: 0 !important;
+  opacity: 1 !important;
+}
+
+.container-grid[b-uplhu3pmtu]{
+  width: 90%;
+  margin: 0 auto;
+  max-width: 768px;
+}
+
+body[b-uplhu3pmtu]{
+  background-color: #1b1426;
+}
+
+/* header */
+
+header[b-uplhu3pmtu] {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1001;
+  display: flex;
+  align-items: center;
   width: 100%;
-  white-space: nowrap;
-  line-height: 60px;
+  height: 60px;
+  background-color: #1b1426;
+}
+
+.header-flex[b-uplhu3pmtu]{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logotipo-mobile[b-uplhu3pmtu]{
+  width: 87.5px;
+  height: 25px;
+}
+
+.logotipo-desktop[b-uplhu3pmtu]{
+  display: none;
+}
+
+.up-header-box[b-uplhu3pmtu] {
+  display: none;
+}
+
+#menu-lateral[b-uplhu3pmtu]{
+  position: fixed;
+  top: 60px;
+  left:  -270px;
+  width: 270px;
+  height: calc(100vh - 60px);
+  display: flex;
+  z-index: 1000;
+  transition: left 0.4s, opacity 0.5s;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-image: linear-gradient(rgb(27, 20, 38, 70%), rgb(27, 20, 38,40%));
+  backdrop-filter: blur(5px);
+  box-shadow: 5px 0px 30px;
+  opacity: 0;
+}
+
+.link-centro[b-uplhu3pmtu]{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 346px;
+  width: 100%;
+}
+
+.link-centro a[b-uplhu3pmtu] {
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  text-decoration: none;
+  font-family: "inter";
+  font-size: 15px;
+  color: white;
+  border-bottom: 2px solid #f9aa01;
+  height: 80px;
+  width: 270px;
+}
+
+.contatos-mobile span[b-uplhu3pmtu]{
+  font-family: "inter";
+  font-size: 15px;
+  color: white;
+}
+
+.contatos-mobile[b-uplhu3pmtu]{
+  width: 100%;
+  text-align: center;
+}
+.contatos-mobile a[b-uplhu3pmtu]{
+  text-decoration: none;
+}
+
+.tel-box-mobile[b-uplhu3pmtu] {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  border-bottom: 2px solid #f9aa01;
+  height: 80px;
+}
+
+.tel-box-mobile img[b-uplhu3pmtu] {
+  margin-left: 40px;
+}
+
+.tel-box-mobile span[b-uplhu3pmtu] {
+  margin-right: 40px;
+}
+
+.mail-box-mobile[b-uplhu3pmtu] {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  line-height: 80px;
+}
+
+.mail-box-mobile img[b-uplhu3pmtu] {
+  margin-left: 30px;
+}
+
+.mail-box-mobile span[b-uplhu3pmtu] {
+  margin-right: 10px;
+}
+
+#menu-lateral-direita[b-uplhu3pmtu] {
+  position: fixed;
+  top: 60px;
+  right: -66px;
+  width: 66px;
+  height: 170px;
+  background-image: linear-gradient(rgb(27, 20, 38, 70%), rgb(27, 20, 38,40%));
+  backdrop-filter: blur(5px);
+  box-shadow: 5px 0px 30px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  z-index: 10;
+  transition: right 0.4s, opacity 0.5s;
+  opacity: 0;
+}
+
+.icons-left[b-uplhu3pmtu]{
+  display: flex;
+  flex-direction: column;
+  width: 20px;
+  height: 138px;
+  justify-content: space-between;
+}
+
+.upper-header-mobile[b-uplhu3pmtu]{
+  display: flex;
+  flex-direction: column;
+  height: 510px;
+}
+
+.social-box-mobile[b-uplhu3pmtu] {
+  margin-bottom: 60px;
+  display: flex;
+  width: 152px;
+  height: 31px;
+  justify-content: space-between;
+}
+
+.social-box-mobile .facebook[b-uplhu3pmtu]{
+  width: 15px;
+  height: 29px;
+}
+
+.social-box-mobile .linkedin[b-uplhu3pmtu]{
+  width: 26px;
+  height: 26px;
+  margin-top: 3px;
+}
+
+.social-box-mobile .instagram[b-uplhu3pmtu]{
+  width: 30px;
+  height: 30px;
 }
