@@ -5,9 +5,9 @@
     
 }
 
+<link rel="stylesheet" href="~/css/equipes.css">
 
-
-<form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data">
+@* <form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data">
 
     <label for="">Nome</label>
     <input placeholder="Santos..." type="text" name="Nome" required>
@@ -19,36 +19,77 @@
 
 
 
-</form>
+</form> *@
+
+<main>
+        <section class="banner">
+
+            <article class="container-grid equipes-flex container-grid-d">
+
+                <div class="border-gradient-e">
+
+                    <form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data" class="box-equipes">
+                        <h1>Cadastro de equipes</h1>
+                        <hr>
+
+                        <div class="input-gradient-equipes">
+                            <input type="text" placeholder="Digite o nome da sua equipe..." name ="Nome" required>
+                        </div>
+
+                            <div class="image-equipe">
+                                <label for="input-file"></label>
+                                 <input id = "input-file" name="Imagem" type="file" accept="image/png, image/jpeg">
+                                 </input>
+
+                            </div>
+                        
+                        <button class="cadastro" type="submit">Cadastro</button>
+
+                    </form>
+
+                </div>
+            </article>
 
 
+           
+            <article class="container-grid">
+                <table>
+                    <thead>
 
-<table class="table table-striped table-responsive"> 
-    <thead>
-        <th>Id</th>
-        <th>Nome</th>
-        <th>Jogador</th>
-        <th></th>
-        <th></th>
-        
-    </thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Nome</th>
+                            <th>Foto</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
 
-    <tbody>
-           @foreach (Equipe equipe in ViewBag.Equipe)
+                    </thead>
+
+                    <tbody>
+                        
+
+    @foreach (Equipe equipe in ViewBag.Equipe)
            {
-        <tr>
-            <td>@equipe.IdEquipe</td>
+        <tr class ="table-line">
+            <td class = "number">@equipe.IdEquipe</td>
             <td>@equipe.Nome</td>
             <td>
                 <img src="/img/Equipes/@equipe.Imagem" width="50px">           
             </td>
-            <td>
-                <a asp-area="" asp-controller="Equipe" asp-action="Excluir" asp-route-id="@equipe.IdEquipe" style="text-decoration: none;">🗑️</a>
+            <td class="icon-trash" >
+                <a asp-area="" asp-controller="Equipe" asp-action="Excluir" asp-route-id="@equipe.IdEquipe" style="text-decoration: none;"><img src="~/assets/icons/icon-trash.svg" alt=""></a>
             </td>
             <td><a asp-area="" asp-controller="Equipe" asp-action="Editar" asp-route-id="@equipe.IdEquipe" style="text-decoration: none;">✏️</a></td>
 
         </tr>
            }
-            
-    </tbody>
-</table>
+
+                       
+                    </tbody>
+
+                </table>
+            </article>
+
+        </section>
+    </main>
