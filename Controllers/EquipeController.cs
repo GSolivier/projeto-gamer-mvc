@@ -19,6 +19,8 @@ namespace projeto_gamer_mvc.Controllers
         [Route("Listar")]
         public IActionResult Index()
         {
+
+            ViewBag.Login = HttpContext.Session.GetString("UserName");
             ViewBag.Equipe = c.Equipe.ToList();
 
             
@@ -91,6 +93,7 @@ namespace projeto_gamer_mvc.Controllers
         [Route("Editar/{id}")]
         public IActionResult Editar(int id)
         {
+            ViewBag.Login = HttpContext.Session.GetString("UserName");
             Equipe equipeEditar = c.Equipe.First(x => x.IdEquipe == id);
 
             ViewBag.Equipe = equipeEditar;

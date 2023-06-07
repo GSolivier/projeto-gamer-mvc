@@ -6,7 +6,7 @@
 
 <h1>Edição de jogadores</h1>
 
-<form method="post" action= '@Url.Action("Atualizar")' enctype="multipart/form-data">
+<form method="post" action= '@Url.Action("Atualizar")'>
 
     <input placeholder="" type="hidden" name="IdJogador" value="@ViewBag.Jogador.IdJogador" >
 
@@ -19,8 +19,19 @@
     <label for="">Senha</label>
     <input  type="password" name="Senha" value= "@ViewBag.Jogador.Senha" >
 
-    <label for="">IdEquipe</label>
-    <input  type="text" name="IdEquipe" value= "@ViewBag.Jogador.IdEquipe" >
+    @* <label for="">IdEquipe</label>
+    <input  type="text" name="IdEquipe" value= "@ViewBag.Jogador.IdEquipe" > *@
+
+   <select name="IdEquipe" id="IdEquipe"> 
+
+    <option value="0">Selecione a equipe</option>
+
+    @foreach (Equipe equipe in ViewBag.Equipe)
+    {
+    <option value="@equipe.IdEquipe">@equipe.Nome</option> 
+    }
+    
+    </select>
 
     <button type="submit" >ATUALIZAR</button>
 

@@ -1,4 +1,4 @@
-@model Login
+@model Jogador
 
 @{
     ViewData["Title"] = "Login";
@@ -16,13 +16,15 @@
 
 </head>
 
+<h2>@TempData.Peek("message")</h2>
+
 <main>
 
         <section class="banner">
 
             <article class="container-grid login-flex container-grid-d">
 
-                <div class="border-gradient-l">
+                <form class="border-gradient-l" method="post" action="@Url.Action("Logar")">
 
                     <div class="box-login">
                         <h1>Login</h1>
@@ -32,7 +34,7 @@
 
                             <div class="icon-input">
                             <img src="~/assets/icons/icon-user-white.svg" alt="">
-                            <input type="email" placeholder="Digite seu email...">
+                            <input type="email" placeholder="Digite seu email..." name="Email" required>
                             </div>
 
                         </div>
@@ -41,12 +43,12 @@
 
                             <div class="icon-input">
                             <img src="~/assets/icons/icon-key.svg" alt="">
-                            <input type="password" placeholder="Digite sua senha...">
+                            <input type="password" placeholder="Digite sua senha..." name="Senha" required>
                             </div>
 
-                        </div>
+                        </form>
 
-                        <button>Logar</button>
+                        <button type="submit">Logar</button>
 
                     </div>
                 </div>

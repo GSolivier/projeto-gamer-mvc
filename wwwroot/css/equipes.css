@@ -343,16 +343,18 @@ table{
 }
 
 thead, tbody{
-    display: flex;
+    display: block;
     flex-direction: column;
     justify-content: space-between;
     width: 100%;
     
 }
 
+
+
 tbody{
-    overflow-y: auto;
-    height: max-content;
+    overflow-y: scroll;
+    height: 461px;
 }
 
 thead tr {
@@ -754,16 +756,22 @@ header{
     width: 334px;
 }
 
-tbody > tr:last-of-type{
+/* tbody > tr:last-of-type{
     display: none;
-}
+} */
+
 
 .table-line{
     height: 125px;
+    
 }
 
 table {
     margin-top: 20px;
+}
+
+table a {
+    background-color: transparent !important;
 }
 
 /* FOOTER */
