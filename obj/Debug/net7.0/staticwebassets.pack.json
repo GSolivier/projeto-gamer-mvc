@@ -217,6 +217,10 @@
       "PackagePath": "staticwebassets\\css\\equipes.css"
     },
     {
+      "Id": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\css\\jogadores.css",
+      "PackagePath": "staticwebassets\\css\\jogadores.css"
+    },
+    {
       "Id": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
@@ -333,8 +337,20 @@
       "PackagePath": "staticwebassets\\images\\logo-gamer.png"
     },
     {
+      "Id": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\1676327341658.jpg",
+      "PackagePath": "staticwebassets\\img\\Equipes\\1676327341658.jpg"
+    },
+    {
       "Id": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\1OdtQL6f_400x400.jpg",
       "PackagePath": "staticwebassets\\img\\Equipes\\1OdtQL6f_400x400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Captura de tela 2023-05-22 141128.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\Captura de tela 2023-05-22 141128.png"
+    },
+    {
+      "Id": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Design sem nome.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\Design sem nome.png"
     },
     {
       "Id": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\ESCUDO-VASCO-RGB.png",
@@ -383,6 +399,10 @@
     {
       "Id": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\banner_cadastro_de_equipe (1).png",
       "PackagePath": "staticwebassets\\img\\Equipes\\banner_cadastro_de_equipe (1).png"
+    },
+    {
+      "Id": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\certificado mine.jpg",
+      "PackagePath": "staticwebassets\\img\\Equipes\\certificado mine.jpg"
     },
     {
       "Id": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\delivery.jpg",

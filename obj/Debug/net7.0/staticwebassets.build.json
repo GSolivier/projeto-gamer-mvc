@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RZM8KZ3HWLHhdFFk2GdSqBVoAcWNiuHxppd/G04Q7No=",
+  "Hash": "9vCRFILZdehhAKa9GRLZmUCwGL3RVZHnlCS5NBblmBo=",
   "Source": "projeto-gamer-mvc",
   "BasePath": "_content/projeto-gamer-mvc",
   "Mode": "Default",
@@ -952,6 +952,23 @@
       "OriginalItemSpec": "wwwroot\\css\\equipes.css"
     },
     {
+      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\css\\jogadores.css",
+      "SourceId": "projeto-gamer-mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "BasePath": "_content/projeto-gamer-mvc",
+      "RelativePath": "css/jogadores.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\jogadores.css"
+    },
+    {
       "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\css\\login.css",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
@@ -1445,6 +1462,23 @@
       "OriginalItemSpec": "wwwroot\\images\\LOUD_LOGO 1.png"
     },
     {
+      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\1676327341658.jpg",
+      "SourceId": "projeto-gamer-mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "BasePath": "_content/projeto-gamer-mvc",
+      "RelativePath": "img/Equipes/1676327341658.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\1676327341658.jpg"
+    },
+    {
       "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\1OdtQL6f_400x400.jpg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
@@ -1479,6 +1513,40 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\banner_cadastro_de_equipe (1).png"
     },
     {
+      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Captura de tela 2023-05-22 141128.png",
+      "SourceId": "projeto-gamer-mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "BasePath": "_content/projeto-gamer-mvc",
+      "RelativePath": "img/Equipes/Captura de tela 2023-05-22 141128.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\Captura de tela 2023-05-22 141128.png"
+    },
+    {
+      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\certificado mine.jpg",
+      "SourceId": "projeto-gamer-mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "BasePath": "_content/projeto-gamer-mvc",
+      "RelativePath": "img/Equipes/certificado mine.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\certificado mine.jpg"
+    },
+    {
       "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\delivery.jpg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
@@ -1494,6 +1562,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\delivery.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Design sem nome.png",
+      "SourceId": "projeto-gamer-mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "BasePath": "_content/projeto-gamer-mvc",
+      "RelativePath": "img/Equipes/Design sem nome.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\Design sem nome.png"
     },
     {
       "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\ESCUDO-VASCO-RGB.png",
