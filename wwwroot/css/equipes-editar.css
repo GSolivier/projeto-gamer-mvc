@@ -239,7 +239,7 @@ header {
 .banner{
     background-image: url(../images/Banner_cadastro_de_Equipe.png);
 
-    height: 1231px;
+    height: 800px;
 }
 
 .equipes-flex{
@@ -353,7 +353,6 @@ thead, tbody{
 
 
 tbody{
-    flex-direction: row-reverse;
     overflow-y: scroll;
     height: 461px;
 }
