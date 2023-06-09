@@ -24,6 +24,7 @@ namespace projeto_gamer_mvc.Infra
             {
                 optionsBuilder.UseSqlServer("Data Source = WATERNOOSE; Initial Catalog = gamerManha; User Id = sa; pwd = Senai@134; TrustServerCertificate = true");
             }
+            
             // if (!optionsBuilder.IsConfigured)
             // {
             //     optionsBuilder.UseSqlServer("Data Source = DESKTOP-Q064HIJ; Initial Catalog = gamerManha; User Id = sa; pwd = Senai@134; TrustServerCertificate = true");

@@ -10575,11 +10575,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilh\\Desktop\\DEVSENAI\\projeto-gamer-mvc\\projeto-gamer-mvc.csproj",
+      "projectUniqueName": "D:\\ReposVSCODE\\projeto-gamer-mvc\\projeto-gamer-mvc.csproj",
       "projectName": "projeto-gamer-mvc",
-      "projectPath": "C:\\Users\\guilh\\Desktop\\DEVSENAI\\projeto-gamer-mvc\\projeto-gamer-mvc.csproj",
+      "projectPath": "D:\\ReposVSCODE\\projeto-gamer-mvc\\projeto-gamer-mvc.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilh\\Desktop\\DEVSENAI\\projeto-gamer-mvc\\obj\\",
+      "outputPath": "D:\\ReposVSCODE\\projeto-gamer-mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

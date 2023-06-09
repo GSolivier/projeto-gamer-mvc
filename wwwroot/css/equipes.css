@@ -351,7 +351,6 @@ thead, tbody{
 }
 
 
-
 tbody{
     flex-direction: row-reverse;
     overflow-y: scroll;

@@ -8,69 +8,6 @@
 <link rel="stylesheet" href="~/css/jogadores.css">
 
 
-@* <form method="post" action="@Url.Action("Cadastrar")" >
-
-<label for="">Nome</label>
-<input placeholder="Digite o seu nome..." type="text" name="Nome" required>
-
-<label for="">Email</label>
-<input type="email" placeholder="Digite seu email..." name="Email" required>
-
-<label for="">Senha</label>
-<input type="password" placeholder="Digite sua senha" name="Senha" required>
-
-@* <label for="">IdEquipe</label>
-<input type="text" placeholder="Digite id equiupe" name="IdEquipe" required> *@
-
-@* <select name="IdEquipe" id="IdEquipe">
-
-<option value="0">Selecione a equipe</option>
-
-@foreach (Equipe equipe in ViewBag.Equipe)
-{
-<option value="@equipe.IdEquipe">@equipe.Nome</option>
-}
-
-</select>
-
-<button class="btn btn-warning" type="submit">Cadastrar</button>
-</form> *@
-
-
-
-
-@* <table class="table table-striped table-responsive">
-<thead>
-<th>Id</th>
-<th>Nome</th>
-<th>Email</th>
-
-<th>Equipe</th>
-<th></th>
-<th></th>
-
-</thead>
-
-<tbody>
-@foreach (Jogador jogador in ViewBag.Jogador)
-{
-<tr>
-<td>@jogador.IdJogador</td>
-<td>@jogador.Nome</td>
-<td>@jogador.Email</td>
-
-<td> <img src="/img/Equipes/@jogador.Equipe.Imagem" width="50px" alt=""></td>
-<td><a asp-area="" asp-controller="Jogador" asp-action="Excluir" asp-route-id="@jogador.IdJogador"
-style="text-decoration: none;">🗑️</a></td>
-<td><a asp-area="" asp-controller="Jogador" asp-action="Editar" asp-route-id="@jogador.IdJogador"
-style="text-decoration: none;">✏️</a></td>
-</tr>
-}
-
-</tbody>
-</table> *@
-
-
 <main>
     <section class="banner">
 

@@ -4,8 +4,9 @@
     ViewData["Title"] = "Editar";
 }
 
-<h1>Edição de jogadores</h1>
+<link rel="stylesheet" href="~/css/jogadores-editar.css">
 
+@* 
 <form method="post" action= '@Url.Action("Atualizar")'>
 
     <input placeholder="" type="hidden" name="IdJogador" value="@ViewBag.Jogador.IdJogador" >
@@ -19,8 +20,8 @@
     <label for="">Senha</label>
     <input  type="password" name="Senha" value= "@ViewBag.Jogador.Senha" >
 
-    @* <label for="">IdEquipe</label>
-    <input  type="text" name="IdEquipe" value= "@ViewBag.Jogador.IdEquipe" > *@
+    <label for="">IdEquipe</label>
+    <input  type="text" name="IdEquipe" value= "@ViewBag.Jogador.IdEquipe" >
 
    <select name="IdEquipe" id="IdEquipe"> 
 
@@ -35,4 +36,51 @@
 
     <button type="submit" >ATUALIZAR</button>
 
-</form>
+</form> *@
+
+<section class="banner">
+
+        <article class="container-grid jogadores-flex container-grid-d">
+
+            <div class="border-gradient-j">
+
+                <form class="box-jogadores" method="post" action="@Url.Action("Atualizar")">
+                    <h1>Editar jogador: <span style="color: #f9aa01;" >@ViewBag.Jogador.Nome</span></h1>
+                    <hr>
+
+                    <div class="input-gradient-jogadores">
+
+                        <input placeholder="" type="hidden" name="IdJogador" value="@ViewBag.Jogador.IdJogador" >
+
+                        <select name="IdEquipe" id="IdEquipe" style="width: 100%;" id="select-team">
+
+                            <option value="0">Selecione a equipe</option>
+
+                            @foreach (Equipe equipe in ViewBag.Equipe)
+                            {
+                                <option value="@equipe.IdEquipe">@equipe.Nome</option>
+                            }
+
+                        </select>
+                    </div>
+
+                    <div class="input-gradient-jogadores">
+                        <input type="text" placeholder="Digite o nome do jogador..." type="text" name="Nome" required value = "@ViewBag.Jogador.Nome">
+                    </div>
+
+                    <div class="input-gradient-jogadores">
+                        <input type="email" placeholder="Digite o email do jogaodor..." name="Email" required value= "@ViewBag.Jogador.Email"> 
+                    </div>
+
+                    <div class="input-gradient-jogadores">
+                        <input type="password" placeholder="Digite a senha..." name="Senha" required value ="@ViewBag.Jogador.Senha">
+                    </div>
+
+
+                    <button type="submit" class="cadastro">Atualizar</button>
+
+                </form>
+            </div>
+        </article>
+
+</section>
