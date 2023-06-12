@@ -21,6 +21,31 @@
 
 </form> *@
 
+@if (ViewBag.Login == null)
+{
+ <main>
+        <section class="banner">
+
+            <article class="container-grid equipes-flex container-grid-d">
+
+                <div class="border-gradient-e">
+
+                    <form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data" class="box-equipes">
+
+                        <h1>Acesso Negado</h1>
+
+                        <h1>Por favor, realize o login para ter acesso a essa página.</h1>
+
+                    </form>
+
+                </div>
+            </article>
+
+        </section>
+    </main>
+}
+else{
+
 <main>
         <section class="banner">
 
@@ -61,6 +86,7 @@
                             <th>Nome</th>
                             <th>Foto</th>
                             <th></th>
+                            <th>Ações</th>
                             <th></th>
                         </tr>
 
@@ -93,3 +119,5 @@
 
         </section>
     </main>
+}
+

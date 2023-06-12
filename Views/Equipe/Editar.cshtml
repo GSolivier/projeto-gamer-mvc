@@ -22,6 +22,11 @@
     <button type="submit" >ATUALIZAR</button> *@
 
 
+@if (ViewBag.Login == null)
+{
+    <a asp-area="" asp-controller="Login" asp-action="Index">Login</a>
+}
+else{
 
 <section class="banner">
 
@@ -52,3 +57,4 @@
                 </div>
             </article>
 </section>
+}

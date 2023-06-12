@@ -7,6 +7,12 @@
 
 <link rel="stylesheet" href="~/css/jogadores.css">
 
+@if (ViewBag.Login == null)
+{
+    <a asp-area="" asp-controller="Login" asp-action="Index">Login</a>
+}
+else
+{
 
 <main>
     <section class="banner">
@@ -96,3 +102,4 @@
 
     </section>
 </main>
+}

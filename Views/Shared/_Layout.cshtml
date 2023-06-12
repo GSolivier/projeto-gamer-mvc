@@ -10,10 +10,6 @@
 </head>
 <body>
 
-
-
-
-
     <header>
 
         <div class="container-grid header-flex mobile-header">
@@ -68,11 +64,23 @@
 
                     <nav class="link-centro">
 
+
                         <a  asp-area="" asp-controller="Home" asp-action="Index">Início</a>
+                        
+                        
+
+                        @if (ViewBag.Login != null)
+                        {
                         <a  asp-area="" asp-controller="Jogador" asp-action="Index">Jogadores</a>
                         <a asp-area="" asp-controller="Equipe" asp-action="Index">Equipes</a>
+                        <a asp-area="" asp-controller="Login" asp-action="Logout">Logout</a>
+                        }
+                        else
+                        {
                         <a href="">Noticias</a>
-
+                        <a href="">Sobre</a>
+                        <a href="">Contato</a>
+                        }
                     </nav>
 
                     <div class="contatos-mobile">
@@ -108,7 +116,15 @@
 
                 <div class="icons-left">
 
+                    @if (ViewBag.Login == null)
+                    {
                     <a asp-area="" asp-controller="Login" asp-action="Login" ><input type="image" src="~/assets/icons/icon-user.svg"> </a>
+                        
+                    }
+                    else
+                    {
+                        <p style="color: white;">@ViewBag.Login</p>
+                    }
                     <a href="#"><img src="~/assets/icons/icon-bag.svg" alt=""></a>
                     <a href="#"><img src="~/assets/icons/icon-lupa.svg" alt=""></a>
 

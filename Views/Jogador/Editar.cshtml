@@ -38,6 +38,14 @@
 
 </form> *@
 
+@if (ViewBag.Login == null)
+{
+    <a asp-area="" asp-controller="Login" asp-action="Index">Login</a>
+}
+
+else
+{
+
 <section class="banner">
 
         <article class="container-grid jogadores-flex container-grid-d">
@@ -84,3 +92,4 @@
         </article>
 
 </section>
+}
