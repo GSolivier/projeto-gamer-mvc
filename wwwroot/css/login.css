@@ -277,6 +277,18 @@ header {
     align-items: center;
 }
 
+.box-login p{
+    
+    color: white;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.box-login p:hover{
+    color:#f9aa01;
+    cursor: pointer;
+}
+
 .border-gradient-l{
     position: relative;
     height: 462px;
@@ -291,7 +303,7 @@ header {
 .box-login hr{
     border: 2px solid #f9aa01;
     width: 90px;
-    margin-bottom: 80px;
+    margin-bottom: 60px;
 }
 
 .box-login h1{
@@ -347,7 +359,10 @@ header {
     border: none;
     font-family: "titilium web bold";
     font-size: 24px;
-    margin-top: 25px;
+}
+
+.box-login :hover{
+    cursor: pointer;
 }
 /* FOOTER */
 .footer{

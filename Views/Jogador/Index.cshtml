@@ -9,7 +9,26 @@
 
 @if (ViewBag.Login == null)
 {
-    <a asp-area="" asp-controller="Login" asp-action="Index">Login</a>
+    <main>
+        <section class="banner">
+
+            <article class="container-grid equipes-flex container-grid-d">
+
+                <div class="border-gradient-e">
+
+                    <form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data" class="box-equipes">
+
+                        <h1>Acesso Negado</h1>
+
+                        <h1>Por favor, realize o login para ter acesso a essa página.</h1>
+
+                    </form>
+
+                </div>
+            </article>
+
+        </section>
+    </main>
 }
 else
 {
