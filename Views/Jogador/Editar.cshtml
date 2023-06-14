@@ -40,7 +40,7 @@
 
 @if (ViewBag.Login == null)
 {
-    <main>
+    
         <section class="banner">
 
             <article class="container-grid equipes-flex container-grid-d">
@@ -59,7 +59,7 @@
             </article>
 
         </section>
-    </main>
+   
 }
 
 else
@@ -79,13 +79,13 @@ else
 
                         <input placeholder="" type="hidden" name="IdJogador" value="@ViewBag.Jogador.IdJogador" >
 
-                        <select name="IdEquipe" id="IdEquipe" style="width: 100%;" id="select-team">
+                        <select name="IdEquipe" id="IdEquipe" style="width: 100%;">
 
-                            <option value="0">Selecione a equipe</option>
+                            <option value="0" disabled selected>Selecione a equipe</option>
 
                             @foreach (Equipe equipe in ViewBag.Equipe)
                             {
-                                <option value="@equipe.IdEquipe">@equipe.Nome</option>
+                                <option value="@equipe.IdEquipe" style="color: black;">@equipe.Nome</option>
                             }
 
                         </select>

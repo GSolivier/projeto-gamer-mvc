@@ -62,7 +62,7 @@
     margin-bottom: 30px;
 }
 
-.input-gradient-jogadores input, #select-team{
+.input-gradient-jogadores input, #IdEquipe{
     display: flex;
     align-items: center;
     padding-left: 16px;
@@ -81,7 +81,7 @@
     outline: none;
 }
 
-.input-gradient-jogadores input::placeholder, #select-team{
+.input-gradient-jogadores input::placeholder, #IdEquipe{
     color: white;
     font-family: "titilium web regular";
     font-size: 16px;

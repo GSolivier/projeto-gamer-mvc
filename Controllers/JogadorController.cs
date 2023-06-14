@@ -31,25 +31,25 @@ namespace projeto_gamer_mvc.Controllers
             return View();
         }
 
-        [Route("Cadastrar")]
-        public IActionResult Cadastrar(IFormCollection form)
-        {
-            Jogador novoJogador = new Jogador();
+        // [Route("Cadastrar")]
+        // public IActionResult Cadastrar(IFormCollection form)
+        // {
+        //     Jogador novoJogador = new Jogador();
 
-            novoJogador.Nome = form["Nome"].ToString();
+        //     novoJogador.Nome = form["Nome"].ToString();
 
-            novoJogador.Email = form["Email"].ToString();
+        //     novoJogador.Email = form["Email"].ToString();
 
-            novoJogador.Senha = form["Senha"].ToString();
+        //     novoJogador.Senha = form["Senha"].ToString();
 
-            novoJogador.IdEquipe = int.Parse(form["IdEquipe"]);
+        //     novoJogador.IdEquipe = int.Parse(form["IdEquipe"]);
 
-            c.Jogador.Add(novoJogador);
+        //     c.Jogador.Add(novoJogador);
 
-            c.SaveChanges();
+        //     c.SaveChanges();
 
-            return LocalRedirect("~/Jogador/Listar");
-        }
+        //     return LocalRedirect("~/Login");
+        // }
 
         [Route("Excluir/{id}")]
         public IActionResult Excluir(int id)

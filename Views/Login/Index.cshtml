@@ -18,9 +18,8 @@
 
 <h2>@TempData.Peek("message")</h2>
 
-<main>
 
-        <section class="banner">
+        <section class="banner-login">
 
             <article class="container-grid login-flex container-grid-d">
 
@@ -49,7 +48,8 @@
                         </div>
                     <button type="submit">Logar</button>
 
-                        <p>Cadastre-se</p>
+                        
+                        <a  asp-area="" asp-controller="CadastroUser" asp-action="CadastroUser"><p>Cadastre-se</p></a>
 
 
                         </form>
@@ -60,4 +60,4 @@
 
         </section>
 
-    </main>
+    

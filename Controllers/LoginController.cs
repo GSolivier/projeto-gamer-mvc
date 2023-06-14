@@ -58,6 +58,9 @@ namespace projeto_gamer_mvc.Controllers
             return LocalRedirect("~/");
         }
 
+        
+
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

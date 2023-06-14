@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\42634177801\Desktop\projeto-gamer-mvc
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/42634177801/Desktop/projeto-gamer-mvc/Views/CadastroUser/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9Vc2VyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/42634177801/Desktop/projeto-gamer-mvc/Views/Equipe/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlXEVkaXRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

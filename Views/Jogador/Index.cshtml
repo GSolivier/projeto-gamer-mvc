@@ -9,7 +9,7 @@
 
 @if (ViewBag.Login == null)
 {
-    <main>
+    
         <section class="banner">
 
             <article class="container-grid equipes-flex container-grid-d">
@@ -28,56 +28,11 @@
             </article>
 
         </section>
-    </main>
+    
 }
 else
 {
-
-<main>
     <section class="banner">
-
-        <article class="container-grid jogadores-flex container-grid-d">
-
-            <div class="border-gradient-j">
-
-                <form class="box-jogadores" method="post" action="@Url.Action("Cadastrar")">
-                    <h1>Cadastro de jogadores</h1>
-                    <hr>
-
-                    <div class="input-gradient-jogadores">
-
-                        <select name="IdEquipe" id="IdEquipe" style="width: 100%;" id="select-team">
-
-                            <option value="0">Selecione a equipe</option>
-
-                            @foreach (Equipe equipe in ViewBag.Equipe)
-                            {
-                                <option value="@equipe.IdEquipe">@equipe.Nome</option>
-                            }
-
-                        </select>
-                    </div>
-
-                    <div class="input-gradient-jogadores">
-                        <input type="text" placeholder="Digite o nome do jogador..." type="text" name="Nome" required>
-                    </div>
-
-                    <div class="input-gradient-jogadores">
-                        <input type="email" placeholder="Digite o email do jogaodor..." name="Email" required>
-                    </div>
-
-                    <div class="input-gradient-jogadores">
-                        <input type="password" placeholder="Digite a senha..." name="Senha" required>
-                    </div>
-
-
-                    <button type="submit" class="cadastro">Cadastro</button>
-
-                </form>
-            </div>
-        </article>
-
-
 
         <article class="container-grid">
             <table>
@@ -89,6 +44,7 @@ else
                         <th>Email</th>
                         <th>Equipe</th>
                         <th></th>
+                        <th>Ações</th>
                         <th></th>
                     </tr>
 
@@ -120,5 +76,4 @@ else
         </article>
 
     </section>
-</main>
 }
