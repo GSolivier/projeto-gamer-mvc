@@ -10,7 +10,7 @@
 </head>
 <body>
 
-    <header>
+    <header id="top">
 
         <div class="container-grid header-flex mobile-header">
 
@@ -66,6 +66,7 @@
 
 
                         <a  asp-area="" asp-controller="Home" asp-action="Index">Início</a>
+                        <a href="~/#noticias">Noticias</a>
                         
                         
 
@@ -73,11 +74,10 @@
                         {
                         <a  asp-area="" asp-controller="Jogador" asp-action="Index">Jogadores</a>
                         <a asp-area="" asp-controller="Equipe" asp-action="Index">Equipes</a>
-                        <a asp-area="" asp-controller="Login" asp-action="Logout">Logout</a>
+                        
                         }
                         else
                         {
-                        <a href="~/#noticias">Noticias</a>
                         <a href="">Sobre</a>
                         <a href="">Contato</a>
                         }
@@ -123,7 +123,8 @@
                     }
                     else
                     {
-                        <p style="color: white;">@ViewBag.Login</p>
+                        <a asp-area="" asp-controller="Login" asp-action="Logout"><img id="logout" src="~/assets/icons/logout.svg" alt=""></a>
+                        @* <p style="color: white;">@ViewBag.Login</p> *@
                     }
                     <a href="#"><img src="~/assets/icons/icon-bag.svg" alt=""></a>
                     <a href="#"><img src="~/assets/icons/icon-lupa.svg" alt=""></a>
@@ -175,11 +176,21 @@
                 <hr>
 
                 <ul class="inside">
-                    <li> <a href="index.html">Inicio</a></li>
-                    <li> <a href="jogadores.html">Jogadores</a></li>
-                    <li> <a href="">Notícias</a></li>
-                    <li> <a href="login.html">Login</a></li>
-                    <li> <a href="equipes.html">Equipes</a></li>
+                    <li> <a  asp-area="" asp-controller="Home" asp-action="Index">Início</a></li>
+
+                    @if (ViewBag.Login != null)
+                        {
+                    <li> <a  asp-area="" asp-controller="Jogador" asp-action="Index">Jogadores</a></li>
+                    <li> <a asp-area="" asp-controller="Equipe" asp-action="Index">Equipes</a></li>
+                    <li><a asp-area="" asp-controller="Login" asp-action="Logout">Logout</a></li>
+                        }
+                    else
+                        {
+                    <li><a href="~/#noticias">Noticias</a></li> 
+                    <li><a href="">Sobre</a></li> 
+                    <li><a href="">Contato</a></li> 
+                    <li> <a asp-area="" asp-controller="Login" asp-action="Login" >Login</a></li>
+                        }
             </article>
 
             <article class="box3-footer">
@@ -216,7 +227,7 @@
 
         <div class = "footer-bottom container-grid-d container-grid" >
 
-        <a href=""><input class="top-button" type="image" src="~/assets/icons/icon-arrow.svg"></a>
+        <a href="#top"><input class="top-button" type="image" src="~/assets/icons/icon-arrow.svg"></a>
         
         <p class="copyright">©Copyright2022-GamerJogosDigitais</p>
 

@@ -3,7 +3,7 @@
 .banner{
     background-image: url(../images/Banner_cadastro_de_Jogadores.png);
     background-size: cover;
-    height: 1431px;
+    height: 950px;
 }
 
 .jogadores-flex{
@@ -110,7 +110,6 @@
 table{
     width: 100%;
     /* border-spacing: 0 15px;  */
-    margin-top: 90px;
 }
 
 thead, tbody{
@@ -123,7 +122,7 @@ thead, tbody{
 tbody{
     flex-direction: row-reverse;
     overflow-y: scroll;
-    height: 461px;
+    height: 868px;
 }
 
 thead tr {
@@ -330,7 +329,7 @@ header{
 
 /* MAIN */
 .banner{
-    background-image: url(../images/banner_cadastro_de_jogador.png);
+    background-image: url(../images/banner_cadastro_de_jogador.jpg);
 }
 .border-gradient-j{
     width: 800px;

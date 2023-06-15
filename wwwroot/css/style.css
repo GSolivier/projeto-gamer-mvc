@@ -223,6 +223,11 @@ header {
     justify-content: space-between;
 }
 
+#logout{
+    width: 25px;
+    height: 25px;
+}
+
 .upper-header-mobile{
     display: flex;
     flex-direction: column;

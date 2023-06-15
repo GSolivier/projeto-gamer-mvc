@@ -335,6 +335,9 @@ header {
     border-radius: 8px;
     font-family: "titilium web bold";
 }
+.image-equipe input::file-selector-button:hover{
+   cursor: pointer;
+}
 
 table{
     width: 100%;
@@ -412,6 +415,18 @@ tbody tr td{
 
 .table-line > td:last-of-type{
     border-right: none;
+}
+
+td a {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#edit{
+    align-self: center;
+    width: 30px;
+    height: 30px;
 }
 
 /* **************** FOOTER ************* */

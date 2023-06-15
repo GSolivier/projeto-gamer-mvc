@@ -336,6 +336,10 @@ header {
     font-family: "titilium web bold";
 }
 
+.image-equipe input::file-selector-button:hover{
+    cursor: pointer;
+ }
+
 table{
     width: 100%;
     /* border-spacing: 0 15px;  */
