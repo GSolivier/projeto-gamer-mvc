@@ -16,7 +16,7 @@
 
 </head>
 
-<h2>@TempData.Peek("message")</h2>
+
 
 
         <section class="banner-login">
@@ -52,6 +52,7 @@
 
                         
                         <a  asp-area="" asp-controller="CadastroUser" asp-action="CadastroUser"><p>Cadastre-se</p></a>
+                            <h6 style="color: red;">@TempData.Peek("message")</h6>
 
 
                         </form>

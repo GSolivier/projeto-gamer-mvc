@@ -60,12 +60,23 @@ else
                             <td>@jogador.Email</td>
                             @* <td>@jogador.Equipe.Nome</td> *@
                             @* <td>@jogador.IdEquipe</td> *@
+
                             <td> <img src="/img/Equipes/@jogador.Equipe.Imagem" width="50px" alt=""></td>
+
+                            @if (jogador.Email == ViewBag.Email)
+                            {
+                                
                             <td class="icon-trash"><a asp-area="" asp-controller="Jogador" asp-action="Excluir"
                                     asp-route-id="@jogador.IdJogador" style="text-decoration: none;"><img
                                         src="~/assets/icons/icon-trash.svg" alt=""></a></td>
+
                             <td><a asp-area="" asp-controller="Jogador" asp-action="Editar"
                                     asp-route-id="@jogador.IdJogador" style="text-decoration: none;">✏️</a></td>
+                            }
+                            else{
+                                
+                            }
+
                         </tr>
                     }
 

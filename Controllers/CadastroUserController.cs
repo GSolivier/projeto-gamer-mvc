@@ -26,6 +26,8 @@ namespace projeto_gamer_mvc.Controllers
             ViewBag.Equipe = c.Equipe.ToList();
             return View();
         }
+        [TempData]
+        public string message {get;set;}
 
         Context c = new Context();
 
@@ -42,11 +44,23 @@ namespace projeto_gamer_mvc.Controllers
 
             novoJogador.IdEquipe = int.Parse(form["IdEquipe"]);
 
+            Jogador jogadorBuscado = c.Jogador.FirstOrDefault(x => x.Email == novoJogador.Email);
+
+            if (jogadorBuscado != null)
+            {   
+                message = "EMAIL JÁ CADASTRADO!";
+
+                return LocalRedirect("~/CadastroUser/CadastroUser");
+            }
+            else
+            {
+
             c.Jogador.Add(novoJogador);
 
             c.SaveChanges();
 
             return LocalRedirect("~/Login/Login");
+            }
         }
 
         // [Route("CadastroUser")]

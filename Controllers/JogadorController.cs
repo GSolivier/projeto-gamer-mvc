@@ -26,6 +26,7 @@ namespace projeto_gamer_mvc.Controllers
         public IActionResult Index()
         {
             ViewBag.Login = HttpContext.Session.GetString("UserName");
+            ViewBag.Email = HttpContext.Session.GetString("Email");
             ViewBag.Jogador = c.Jogador.ToList();
             ViewBag.Equipe = c.Equipe.ToList();
             return View();
@@ -67,6 +68,7 @@ namespace projeto_gamer_mvc.Controllers
         public IActionResult Editar(int id)
         {
             ViewBag.Login = HttpContext.Session.GetString("UserName");
+            ViewBag.Email = HttpContext.Session.GetString("Email");
             Jogador jogadorEditar = c.Jogador.First(x => x.IdJogador == id);
 
             ViewBag.Jogador = jogadorEditar;
