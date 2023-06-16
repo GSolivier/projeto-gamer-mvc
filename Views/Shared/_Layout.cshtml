@@ -249,6 +249,15 @@
         function mostrarMenuDireita() {
             document.getElementById("menu-lateral-direita").classList.toggle("mostrarMenuDireita")
         }
+
+        function myFunction() {
+  var x = document.getElementById("senha");
+  if (x.type === "password") {
+    x.type = "text";
+  } else {
+    x.type = "password";
+  }
+}
     </script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
