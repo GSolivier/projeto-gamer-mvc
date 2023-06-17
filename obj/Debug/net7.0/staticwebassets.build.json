@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2EBb4m6QviDTBO3ax2EOcLHLd5JSFn9N1OuN7e3XvVQ=",
+  "Hash": "cC/SKaxHT1u+lW6/enzlQboUShfiVlZmSJRRJHWVtaM=",
   "Source": "projeto-gamer-mvc",
   "BasePath": "_content/projeto-gamer-mvc",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "projeto-gamer-mvc\\wwwroot",
       "Source": "projeto-gamer-mvc",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\projeto-gamer-mvc.styles.css",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\projeto-gamer-mvc.styles.css",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "projeto-gamer-mvc.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\projeto-gamer-mvc.styles.css"
+      "OriginalItemSpec": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\projeto-gamer-mvc.styles.css"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\projeto-gamer-mvc.bundle.scp.css",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\projeto-gamer-mvc.bundle.scp.css",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "projeto-gamer-mvc.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\projeto-gamer-mvc.bundle.scp.css"
+      "OriginalItemSpec": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\projeto-gamer-mvc.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\Inter-VariableFont_slnt,wght.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\Inter-VariableFont_slnt,wght.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Inter/Inter-VariableFont_slnt,wght.ttf",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\Inter-VariableFont_slnt,wght.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\OFL.txt",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\OFL.txt",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Inter/OFL.txt",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\OFL.txt"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\README.txt",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\README.txt",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Inter/README.txt",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\README.txt"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Black.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Black.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Inter/static/Inter-Black.ttf",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-Black.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Bold.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Bold.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Inter/static/Inter-Bold.ttf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-ExtraBold.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-ExtraBold.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Inter/static/Inter-ExtraBold.ttf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-ExtraBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-ExtraLight.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-ExtraLight.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Inter/static/Inter-ExtraLight.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-ExtraLight.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Light.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Light.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Inter/static/Inter-Light.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Medium.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Medium.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Inter/static/Inter-Medium.ttf",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Regular.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Regular.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Inter/static/Inter-Regular.ttf",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-SemiBold.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-SemiBold.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Inter/static/Inter-SemiBold.ttf",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-SemiBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Thin.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Thin.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Inter/static/Inter-Thin.ttf",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-Thin.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Quicksand\\OFL.txt",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Quicksand\\OFL.txt",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Quicksand/OFL.txt",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Quicksand\\OFL.txt"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Quicksand\\Quicksand-VariableFont_wght.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Quicksand\\Quicksand-VariableFont_wght.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Quicksand/Quicksand-VariableFont_wght.ttf",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Quicksand\\Quicksand-VariableFont_wght.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Quicksand\\README.txt",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Quicksand\\README.txt",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Quicksand/README.txt",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Quicksand\\README.txt"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Bold.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Bold.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Quicksand/static/Quicksand-Bold.ttf",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Light.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Light.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Quicksand/static/Quicksand-Light.ttf",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Medium.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Medium.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Quicksand/static/Quicksand-Medium.ttf",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Regular.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Regular.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Quicksand/static/Quicksand-Regular.ttf",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-SemiBold.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-SemiBold.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Quicksand/static/Quicksand-SemiBold.ttf",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-SemiBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\OFL.txt",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\OFL.txt",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Titillium_Web/OFL.txt",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\OFL.txt"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Black.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Black.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-Black.ttf",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Black.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Bold.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Bold.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-Bold.ttf",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-BoldItalic.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-BoldItalic.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-BoldItalic.ttf",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-BoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-ExtraLight.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-ExtraLight.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-ExtraLight.ttf",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-ExtraLight.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-ExtraLightItalic.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-ExtraLightItalic.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-ExtraLightItalic.ttf",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-ExtraLightItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Italic.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Italic.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-Italic.ttf",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Italic.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Light.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Light.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-Light.ttf",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-LightItalic.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-LightItalic.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-LightItalic.ttf",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-LightItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Regular.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Regular.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-Regular.ttf",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-SemiBold.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-SemiBold.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-SemiBold.ttf",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-SemiBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-SemiBoldItalic.ttf",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-SemiBoldItalic.ttf",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-SemiBoldItalic.ttf",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-SemiBoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\edit.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\edit.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/edit.svg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\edit.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-arrow.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-arrow.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-arrow.svg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-arrow.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-bag.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-bag.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-bag.svg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-bag.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-control.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-control.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-control.svg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-control.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-face-footer.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-face-footer.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-face-footer.svg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-face-footer.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-face.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-face.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-face.svg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-face.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-gamer.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-gamer.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-gamer.svg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-gamer.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-insta-footer.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-insta-footer.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-insta-footer.svg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-insta-footer.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-insta.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-insta.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-insta.svg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-insta.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-key.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-key.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-key.svg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-key.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-linke.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-linke.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-linke.svg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-linke.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-linkedin-footer.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-linkedin-footer.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-linkedin-footer.svg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-linkedin-footer.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-lupa.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-lupa.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-lupa.svg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-lupa.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-mail.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-mail.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-mail.svg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-mail.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-menu.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-menu.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-menu.svg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-menu.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-tel.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-tel.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-tel.svg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-tel.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-trash.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-trash.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-trash.svg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-trash.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-trespontos.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-trespontos.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-trespontos.svg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-trespontos.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-user-white.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-user-white.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-user-white.svg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-user-white.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-user.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\icon-user.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/icon-user.svg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\icon-user.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\Line 27.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\Line 27.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/Line 27.svg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\Line 27.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\logout.svg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\assets\\icons\\logout.svg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "assets/icons/logout.svg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\logout.svg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\css\\equipes-editar.css",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\css\\equipes-editar.css",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "css/equipes-editar.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\css\\equipes-editar.css"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\css\\equipes.css",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\css\\equipes.css",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "css/equipes.css",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\css\\equipes.css"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\css\\jogadores-editar.css",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\css\\jogadores-editar.css",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "css/jogadores-editar.css",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jogadores-editar.css"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\css\\jogadores.css",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\css\\jogadores.css",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "css/jogadores.css",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jogadores.css"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\css\\login.css",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\css\\login.css",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -1054,10 +1054,27 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\css\\site.css",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\css\\perfil.css",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
+      "BasePath": "_content/projeto-gamer-mvc",
+      "RelativePath": "css/perfil.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\perfil.css"
+    },
+    {
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\css\\site.css",
+      "SourceId": "projeto-gamer-mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1071,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\css\\style.css",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\css\\style.css",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -1088,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\favicon.ico",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\favicon.ico",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1105,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\backgorund-footer.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\backgorund-footer.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/backgorund-footer.png",
       "AssetKind": "All",
@@ -1122,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\backgorund-footer.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\backgroung_footer-desktop.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\backgroung_footer-desktop.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/backgroung_footer-desktop.png",
       "AssetKind": "All",
@@ -1139,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\backgroung_footer-desktop.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\backgrund_notícias 1.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\backgrund_notícias 1.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/backgrund_notícias 1.png",
       "AssetKind": "All",
@@ -1156,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\backgrund_notícias 1.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\backgrund_notícias_desktop.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\backgrund_notícias_desktop.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/backgrund_notícias_desktop.png",
       "AssetKind": "All",
@@ -1173,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\backgrund_notícias_desktop.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\banner_cadastro_de_equipe_d.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\banner_cadastro_de_equipe_d.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/banner_cadastro_de_equipe_d.png",
       "AssetKind": "All",
@@ -1190,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner_cadastro_de_equipe_d.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\Banner_cadastro_de_Equipe.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\Banner_cadastro_de_Equipe.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/Banner_cadastro_de_Equipe.png",
       "AssetKind": "All",
@@ -1207,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Banner_cadastro_de_Equipe.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\banner_cadastro_de_jogador.jpg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\banner_cadastro_de_jogador.jpg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/banner_cadastro_de_jogador.jpg",
       "AssetKind": "All",
@@ -1224,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner_cadastro_de_jogador.jpg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\Banner_cadastro_de_Jogadores.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\Banner_cadastro_de_Jogadores.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/Banner_cadastro_de_Jogadores.png",
       "AssetKind": "All",
@@ -1241,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Banner_cadastro_de_Jogadores.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\Banner_Login.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\Banner_Login.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/Banner_Login.png",
       "AssetKind": "All",
@@ -1258,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Banner_Login.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\banner-desktop.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\banner-desktop.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/banner-desktop.png",
       "AssetKind": "All",
@@ -1275,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-desktop.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\banner-login-desktop.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\banner-login-desktop.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/banner-login-desktop.png",
       "AssetKind": "All",
@@ -1292,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-login-desktop.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\banner.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\banner.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/banner.png",
       "AssetKind": "All",
@@ -1309,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\cs-image-desktop.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\cs-image-desktop.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/cs-image-desktop.png",
       "AssetKind": "All",
@@ -1326,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cs-image-desktop.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\cs-image.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\cs-image.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/cs-image.png",
       "AssetKind": "All",
@@ -1343,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cs-image.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\fifa-image-desktop.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\fifa-image-desktop.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/fifa-image-desktop.png",
       "AssetKind": "All",
@@ -1360,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\fifa-image-desktop.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\fifa-image.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\fifa-image.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/fifa-image.png",
       "AssetKind": "All",
@@ -1377,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\images\\fifa-image.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\img-jinx-desktop.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\img-jinx-desktop.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/img-jinx-desktop.png",
       "AssetKind": "All",
@@ -1394,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-jinx-desktop.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\img-jinx.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\img-jinx.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/img-jinx.png",
       "AssetKind": "All",
@@ -1411,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-jinx.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\img-killjoy-desktop.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\img-killjoy-desktop.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/img-killjoy-desktop.png",
       "AssetKind": "All",
@@ -1428,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-killjoy-desktop.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\img-killjoy.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\img-killjoy.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/img-killjoy.png",
       "AssetKind": "All",
@@ -1445,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-killjoy.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\img-news1.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\img-news1.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/img-news1.png",
       "AssetKind": "All",
@@ -1462,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-news1.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\img-news2.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\img-news2.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/img-news2.png",
       "AssetKind": "All",
@@ -1479,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-news2.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\img-news3.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\img-news3.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/img-news3.png",
       "AssetKind": "All",
@@ -1496,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-news3.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\logo-gamer.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\logo-gamer.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/logo-gamer.png",
       "AssetKind": "All",
@@ -1513,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo-gamer.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\images\\LOUD_LOGO 1.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\LOUD_LOGO 1.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "images/LOUD_LOGO 1.png",
       "AssetKind": "All",
@@ -1530,10 +1547,27 @@
       "OriginalItemSpec": "wwwroot\\images\\LOUD_LOGO 1.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\1676327341658.jpg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\images\\profile.jpg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
+      "BasePath": "_content/projeto-gamer-mvc",
+      "RelativePath": "images/profile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\profile.jpg"
+    },
+    {
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\1676327341658.jpg",
+      "SourceId": "projeto-gamer-mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/1676327341658.jpg",
       "AssetKind": "All",
@@ -1547,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\1676327341658.jpg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\1OdtQL6f_400x400.jpg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\1OdtQL6f_400x400.jpg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/1OdtQL6f_400x400.jpg",
       "AssetKind": "All",
@@ -1564,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\1OdtQL6f_400x400.jpg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\banner_cadastro_de_equipe (1).png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\banner_cadastro_de_equipe (1).png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/banner_cadastro_de_equipe (1).png",
       "AssetKind": "All",
@@ -1581,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\banner_cadastro_de_equipe (1).png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Captura de tela 2023-05-22 141128.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Captura de tela 2023-05-22 141128.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/Captura de tela 2023-05-22 141128.png",
       "AssetKind": "All",
@@ -1598,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Captura de tela 2023-05-22 141128.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\certificado mine.jpg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\certificado mine.jpg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/certificado mine.jpg",
       "AssetKind": "All",
@@ -1615,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\certificado mine.jpg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\delivery.jpg",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\delivery.jpg",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/delivery.jpg",
       "AssetKind": "All",
@@ -1632,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\delivery.jpg"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Design sem nome.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Design sem nome.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/Design sem nome.png",
       "AssetKind": "All",
@@ -1649,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Design sem nome.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\ESCUDO-VASCO-RGB.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\ESCUDO-VASCO-RGB.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/ESCUDO-VASCO-RGB.png",
       "AssetKind": "All",
@@ -1666,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\ESCUDO-VASCO-RGB.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\lp-gamer-home_0000s_0000s_0002_lol.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\lp-gamer-home_0000s_0000s_0002_lol.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/lp-gamer-home_0000s_0000s_0002_lol.png",
       "AssetKind": "All",
@@ -1683,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\lp-gamer-home_0000s_0000s_0002_lol.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\padrao.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\padrao.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/padrao.png",
       "AssetKind": "All",
@@ -1700,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\padrao.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Red_Canids_allmode.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Red_Canids_allmode.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/Red_Canids_allmode.png",
       "AssetKind": "All",
@@ -1717,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Red_Canids_allmode.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Santos_Logo.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Santos_Logo.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/Santos_Logo.png",
       "AssetKind": "All",
@@ -1734,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Santos_Logo.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_10.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_10.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/Screenshot_10.png",
       "AssetKind": "All",
@@ -1751,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Screenshot_10.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_104.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_104.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/Screenshot_104.png",
       "AssetKind": "All",
@@ -1768,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Screenshot_104.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_117.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_117.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/Screenshot_117.png",
       "AssetKind": "All",
@@ -1785,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Screenshot_117.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_119.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_119.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/Screenshot_119.png",
       "AssetKind": "All",
@@ -1802,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Screenshot_119.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_124.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_124.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/Screenshot_124.png",
       "AssetKind": "All",
@@ -1819,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Screenshot_124.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_125.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_125.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/Screenshot_125.png",
       "AssetKind": "All",
@@ -1836,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Screenshot_125.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_18.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_18.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/Screenshot_18.png",
       "AssetKind": "All",
@@ -1853,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Screenshot_18.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_322.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_322.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/Screenshot_322.png",
       "AssetKind": "All",
@@ -1870,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Screenshot_322.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_330.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\Screenshot_330.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/Screenshot_330.png",
       "AssetKind": "All",
@@ -1887,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Screenshot_330.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\ZS-Real-Madruga.png",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\ZS-Real-Madruga.png",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "img/Equipes/ZS-Real-Madruga.png",
       "AssetKind": "All",
@@ -1904,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\ZS-Real-Madruga.png"
     },
     {
-      "Identity": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\js\\site.js",
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\js\\site.js",
       "SourceId": "projeto-gamer-mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\42634177801\\Desktop\\projeto-gamer-mvc\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-mvc",
       "RelativePath": "js/site.js",
       "AssetKind": "All",

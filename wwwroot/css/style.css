@@ -228,6 +228,12 @@ header {
     height: 25px;
 }
 
+#profile-pic{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+}
+
 .upper-header-mobile{
     display: flex;
     flex-direction: column;

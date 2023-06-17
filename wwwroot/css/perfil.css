@@ -1,0 +1,163 @@
+
+/* MAIN */
+.banner{
+    background-image: url(../images/Banner_cadastro_de_Jogadores.png);
+    background-size: cover;
+    height: 950px;
+}
+
+.jogadores-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.box-jogadores{
+    flex-direction: column;
+    background-image: linear-gradient(112.07deg, rgba(27, 20, 38, 0.6) 0%, rgba(60, 3, 65, 0.38) 98.83%);
+    backdrop-filter: blur(5px);
+    width: 100%;
+    height: 100%;
+    align-self: center;
+    border-radius: 8px;
+    color: white;
+    font-family: "titilium web";
+    font-size: 28px;
+    display: flex;
+    align-items: center;
+}
+
+.border-gradient-p{
+    margin-top: 70px;
+    padding: 1px;
+    height: 650px;
+    width: 335px;
+    background-image: linear-gradient(to right bottom, rgba(255, 255, 255, .5), rgba(255, 255, 255, .0));    
+    border-radius: 8px;
+    
+}
+
+.box-jogadores hr{
+    border: 2px solid #f9aa01;
+    width: 250px;
+    margin-bottom: 80px;
+}
+
+.box-jogadores h1{
+    text-transform: uppercase;
+    font-size: 28px;
+}
+
+.input-gradient-jogadores{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 273px;
+    height: 40px;
+    padding: 1.5px;
+    background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.459), rgba(255, 255, 255, 0) );
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+
+.input-gradient-jogadores input, #IdEquipe{
+    display: flex;
+    align-items: center;
+    padding-left: 16px;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    background-image: linear-gradient(90deg, #bbaacc 0%, rgba(217, 217, 217, 0.862) 103.86%);
+    backdrop-filter: blur(5px);
+    width: 100%;
+    color: white;
+    padding-left: 16px;
+    height: 40px;
+    background: transparent;
+    border: none;
+    outline: none;
+}
+
+.input-gradient-jogadores input::placeholder, #IdEquipe{
+    color: white;
+    font-family: "titilium web regular";
+    font-size: 16px;
+}
+
+
+.box-jogadores .cadastro{
+    width: 273px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #f9aa01;
+    border: none;
+    font-family: "titilium web bold";
+    font-size: 24px;
+    margin-top: 49px;
+}
+
+
+/* MEDIA QUERIES */
+
+@media screen and (min-width:992px) {
+    
+    /* CONFIG GENERICA */
+
+.container-grid-d{
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1280px;
+    /* border: 1px solid green; */
+}
+
+.link-centro a:hover{
+    color: #f9aa01;
+}
+
+/* MAIN */
+.banner{
+    background-image: url(../images/banner_cadastro_de_jogador.jpg);
+}
+.border-gradient-p{
+    width: 1600px;
+    height:800px;
+}
+
+.box-jogadores{
+    display: flex;
+    padding: 90px;
+    flex-direction: row;
+    gap: 100px;
+}
+
+.box-jogadores h1{
+    font-family: 'titilium web black';
+    font-size: 40px;
+    text-align: center;
+}
+
+.box-jogadores hr{
+    width: 448px;
+}
+
+.input-gradient-jogadores{
+    width: 280px;
+}
+
+#profile-pic-big{
+    width: 200px;
+    height: 200px;
+    border-radius: 300px;
+}
+
+.profile-info{
+    align-self: flex-start;
+}
+
+.profile-data{
+    align-self: flex-start;
+    padding-top: 20px;
+}
+}

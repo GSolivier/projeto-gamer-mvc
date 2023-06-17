@@ -61,7 +61,9 @@ namespace projeto_gamer_mvc.Controllers
 
             c.SaveChanges();
 
-            return LocalRedirect("~/Jogador/Listar");
+            HttpContext.Session.Remove("UserName");
+
+            return LocalRedirect("~/");
         }
 
         [Route("Editar/{id}")]
@@ -107,6 +109,21 @@ namespace projeto_gamer_mvc.Controllers
 
 
             return LocalRedirect("~/Jogador/Listar");
+        }
+
+        [Route("Perfil")]
+        public IActionResult Perfil()
+        {
+            ViewBag.Login = HttpContext.Session.GetString("UserName");
+            var email = HttpContext.Session.GetString("Email");
+
+
+            Jogador jogadorEditar = c.Jogador.First(x => x.Email == email);
+
+            ViewBag.Jogador = jogadorEditar;
+            ViewBag.Equipe = c.Equipe.ToList();
+
+            return View("Perfil");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

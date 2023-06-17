@@ -74,6 +74,7 @@
                         {
                         <a  asp-area="" asp-controller="Jogador" asp-action="Index">Jogadores</a>
                         <a asp-area="" asp-controller="Equipe" asp-action="Index">Equipes</a>
+                        <a asp-area="" asp-controller="Login" asp-action="Logout"><img id="logout" src="~/assets/icons/logout.svg" alt=""></a>
                         
                         }
                         else
@@ -123,8 +124,8 @@
                     }
                     else
                     {
-                        <a asp-area="" asp-controller="Login" asp-action="Logout"><img id="logout" src="~/assets/icons/logout.svg" alt=""></a>
-                        @* <p style="color: white;">@ViewBag.Login</p> *@
+                        
+                        <a asp-area="" asp-controller="Jogador" asp-action="Perfil"><img id="profile-pic" src="~/images/profile.jpg" alt=""></a>
                     }
                     <a href="#"><img src="~/assets/icons/icon-bag.svg" alt=""></a>
                     <a href="#"><img src="~/assets/icons/icon-lupa.svg" alt=""></a>

@@ -1,0 +1,45 @@
+@model Jogador
+
+@{
+    ViewData["Title"] = "Perfil";
+}
+
+<link rel="stylesheet" href="~/css/perfil.css">
+
+<section class="banner">
+
+    <article class="jogadores-flex">
+
+        <div class="border-gradient-p">
+            <article class="box-jogadores">
+                
+                <div class="profile-info">
+                    <img src="~/images/profile.jpg" alt="" id="profile-pic-big">
+                    <h1>@ViewBag.Login</h1>
+                </div>
+
+                <div class="profile-data">
+                    <label for="">Email</label>
+                    <div class="input-gradient-jogadores">
+                        <input type="email" placeholder="@ViewBag.Jogador.Email" name="Email" disabled>
+                    </div>
+                    <label for="">Senha</label>
+                    <div class="input-gradient-jogadores">
+                        <input type="password" value="@ViewBag.Jogador.Senha" name="Email" disabled>
+                    </div>
+                </div>
+
+                <div class="profile-team">
+                    <h1>Equipe Atual</h1>
+                    <span>@ViewBag.Jogador.IdEquipe</span>
+
+                </div>
+
+            </article>
+        </div> 
+
+        
+    </article>
+
+
+</section>
