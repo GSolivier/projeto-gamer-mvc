@@ -122,6 +122,7 @@ namespace projeto_gamer_mvc.Controllers
 
             ViewBag.Jogador = jogadorEditar;
             ViewBag.Equipe = c.Equipe.ToList();
+            ViewBag.Jogadores = c.Jogador.ToList();
 
             return View("Perfil");
         }

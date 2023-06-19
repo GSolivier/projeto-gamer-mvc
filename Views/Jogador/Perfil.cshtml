@@ -31,8 +31,39 @@
 
                 <div class="profile-team">
                     <h1>Equipe Atual</h1>
-                    <span>@ViewBag.Jogador.IdEquipe</span>
+                    @foreach (Equipe equipe in ViewBag.Equipe)
+                    {
+                        if (ViewBag.Jogador.IdEquipe == equipe.IdEquipe)
+                        {
+                            <span>@equipe.Nome</span>
+                            <span><img src="/img/Equipes/@equipe.Imagem" width="50px" alt=""></span>
+                        }
+                    }
+                            <table>
+                    <thead>
 
+                        <tr>
+                            <th>ID</th>
+                            <th>Nome</th>
+                            
+                        </tr>
+
+                    </thead>
+                        <tbody>
+                    @foreach (Jogador jogador in ViewBag.Jogadores)
+                    {
+                        if (jogador.IdEquipe == ViewBag.Jogador.IdEquipe)
+                        {
+                            <tr  class="table-line">
+                            <td class="number">@jogador.IdJogador</td>
+                            <td>@jogador.Nome</td>
+
+                            </tr>
+                        }
+                    }
+                    
+                            </tbody>
+                            </table>
                 </div>
 
             </article>

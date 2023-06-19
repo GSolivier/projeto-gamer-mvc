@@ -441,6 +441,14 @@
       "PackagePath": "staticwebassets\\img\\Equipes\\delivery.jpg"
     },
     {
+      "Id": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\download.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\download.png"
+    },
+    {
+      "Id": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\e-liquids-Eliquid-cereja-1520862600532.jpg",
+      "PackagePath": "staticwebassets\\img\\Equipes\\e-liquids-Eliquid-cereja-1520862600532.jpg"
+    },
+    {
       "Id": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\lp-gamer-home_0000s_0000s_0002_lol.png",
       "PackagePath": "staticwebassets\\img\\Equipes\\lp-gamer-home_0000s_0000s_0002_lol.png"
     },

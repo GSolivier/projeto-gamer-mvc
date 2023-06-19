@@ -98,6 +98,85 @@
     margin-top: 49px;
 }
 
+table{
+    width: 100%;
+    /* border-spacing: 0 15px;  */
+    margin-top: 90px;
+}
+
+thead, tbody{
+    display: block;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+}
+
+tbody{
+    flex-direction: row-reverse;
+    overflow-y: scroll;
+    height: 461px;
+}
+
+thead tr {
+    display: flex;
+    margin-bottom: 30px;
+    border-bottom: 3px solid #F9AA01;
+}
+
+table, tr, td{
+    border-collapse: collapse;
+}
+
+table th {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    color: #f9aa01;
+    font-family: 'titilium web black';
+    text-transform: uppercase;
+    text-shadow: 0 0 7px black;
+    font-size: 20px;
+}
+
+.table-line{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: linear-gradient(112.07deg, rgba(27, 20, 38, 0.9) 0%, rgba(60, 3, 65, 0.9) 98.83%);
+    backdrop-filter: blur(5px);
+    text-align: center;
+    color: white;
+    font-family: 'titilium web bold';
+    font-size: 20px;
+    height: 70px;
+    border-radius: 8px;
+    background: linear-gradient(to right, rgba(27, 20, 38,.9), rgba(60, 3, 65,0.03)) padding-box,
+    linear-gradient(to right, rgba(255, 255, 255,.6), rgba(255, 255, 255,0)) border-box;
+    border-image-slice: 1;
+    margin-bottom: 20px;
+    border: 2px solid transparent;
+}
+
+tbody tr td{
+    width: 100%;
+    height: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 2px solid #F9AA01;
+}
+
+tbody a{
+    background-color: transparent !important;
+}
+
+
+.table-line > td:last-of-type{
+    border-right: none;
+}
+
 
 /* MEDIA QUERIES */
 
@@ -129,13 +208,17 @@
     display: flex;
     padding: 90px;
     flex-direction: row;
-    gap: 100px;
+    gap: 150px;
 }
 
 .box-jogadores h1{
     font-family: 'titilium web black';
     font-size: 40px;
     text-align: center;
+    color: #f9aa01;
+}
+.box-jogadores label{
+    color: #f9aa01;
 }
 
 .box-jogadores hr{
@@ -160,4 +243,18 @@
     align-self: flex-start;
     padding-top: 20px;
 }
+
+.profile-team{
+    align-self: flex-start;
+}
+
+.table-line{
+    height: 125px;
+}
+
+table{
+    width: 800px;
+    align-self: center;
+}
+
 }

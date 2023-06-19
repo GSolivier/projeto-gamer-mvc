@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cC/SKaxHT1u+lW6/enzlQboUShfiVlZmSJRRJHWVtaM=",
+  "Hash": "EhCPeC1bvzgptujCHH7ycfEtBEEuGMjexFVLy+npQQE=",
   "Source": "projeto-gamer-mvc",
   "BasePath": "_content/projeto-gamer-mvc",
   "Mode": "Default",
@@ -1681,6 +1681,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Design sem nome.png"
+    },
+    {
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\download.png",
+      "SourceId": "projeto-gamer-mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
+      "BasePath": "_content/projeto-gamer-mvc",
+      "RelativePath": "img/Equipes/download.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\download.png"
+    },
+    {
+      "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\e-liquids-Eliquid-cereja-1520862600532.jpg",
+      "SourceId": "projeto-gamer-mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\",
+      "BasePath": "_content/projeto-gamer-mvc",
+      "RelativePath": "img/Equipes/e-liquids-Eliquid-cereja-1520862600532.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\e-liquids-Eliquid-cereja-1520862600532.jpg"
     },
     {
       "Identity": "D:\\OneDrive - SESISENAISP - Escolas\\Área de Trabalho\\DEVSENAI\\projeto-gamer-mvc\\wwwroot\\img\\Equipes\\ESCUDO-VASCO-RGB.png",
