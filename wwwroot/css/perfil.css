@@ -1,6 +1,6 @@
 
 /* MAIN */
-.banner{
+.banner-p{
     background-image: url(../images/Banner_cadastro_de_Jogadores.png);
     background-size: cover;
     height: 950px;
@@ -196,18 +196,21 @@ tbody a{
 }
 
 /* MAIN */
-.banner{
+.banner-p{
     background-image: url(../images/banner_cadastro_de_jogador.jpg);
+    height: 750px;
 }
 .border-gradient-p{
     width: 1600px;
-    height:800px;
+    height:600px;
 }
 
 .box-jogadores{
     display: flex;
     padding: 90px;
     flex-direction: row;
+    align-items: center;
+    justify-content: center;
     gap: 150px;
 }
 
@@ -236,25 +239,60 @@ tbody a{
 }
 
 .profile-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     align-self: flex-start;
+    gap: 20px;
 }
 
 .profile-data{
     align-self: flex-start;
     padding-top: 20px;
 }
+.links-profile{
+    display: flex;
+    justify-content: space-around;
+}
+
+.links-profile a {
+    color: white;
+    font-size: 25px;
+    margin-top: 10px;
+    transition: all 0.5s;
+}
+
+.links-profile a:hover{
+    color: #F9AA01;
+}
 
 .profile-team{
     align-self: flex-start;
 }
 
+.team-info{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+#team-name{
+    text-align: center;
+    align-self: center;
+}
+
 .table-line{
-    height: 125px;
+    height: 90px;
 }
 
 table{
-    width: 800px;
+    width: 400px;
+    margin-top: 10px;
     align-self: center;
+}
+
+tbody{
+    height: 200px;
 }
 
 }

@@ -15,15 +15,15 @@ namespace projeto_gamer_mvc.Infra
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            // if (!optionsBuilder.IsConfigured)
-            // {
-            //     optionsBuilder.UseSqlServer("Data Source = NOTE09-S15; Initial Catalog = gamerManha; User Id = sa; pwd = Senai@134; TrustServerCertificate = true");
-            // }
-
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source = Guilherme; Initial Catalog = gamerManha; User Id = sa; pwd = Senai@134; TrustServerCertificate = true");
+                optionsBuilder.UseSqlServer("Data Source = NOTE09-S15; Initial Catalog = gamerManha; User Id = sa; pwd = Senai@134; TrustServerCertificate = true");
             }
+
+            // if (!optionsBuilder.IsConfigured)
+            // {
+            //     optionsBuilder.UseSqlServer("Data Source = Guilherme; Initial Catalog = gamerManha; User Id = sa; pwd = Senai@134; TrustServerCertificate = true");
+            // }
             
             // if (!optionsBuilder.IsConfigured)
             // {

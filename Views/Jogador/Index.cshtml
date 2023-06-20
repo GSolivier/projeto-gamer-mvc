@@ -9,43 +9,47 @@
 
 @if (ViewBag.Login == null)
 {
-    
-        <section class="banner">
 
-            <article class="container-grid equipes-flex container-grid-d">
+    <section class="banner">
 
-                <div class="border-gradient-e">
+        <article class="container-grid equipes-flex container-grid-d">
 
-                    <form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data" class="box-equipes">
+            <div class="border-gradient-e">
 
-                        <h1>Acesso Negado</h1>
+                <form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data" class="box-equipes">
 
-                        <h1>Por favor, realize o login para ter acesso a essa página.</h1>
+                    <h1>Acesso Negado</h1>
 
-                    </form>
+                    <h1>Por favor, realize o login para ter acesso a essa página.</h1>
 
-                </div>
-            </article>
+                </form>
 
-        </section>
-    
+            </div>
+        </article>
+
+    </section>
+
 }
 else
 {
     <section class="banner">
 
         <article class="container-grid">
-            <table>
-                <thead>
 
+            <div class="hidden">
+
+            @foreach (Equipe equipe in ViewBag.Equipe)
+            {
+                <span>@equipe.Nome</span>
+                <span><img src="/img/Equipes/@equipe.Imagem" width="50px" alt=""></span>
+                <table>
+
+                    <thead>
                     <tr>
                         <th>ID</th>
                         <th>Nome</th>
                         <th>Email</th>
-                        <th>Equipe</th>
-                        <th></th>
-                        <th>Ações</th>
-                        <th></th>
+
                     </tr>
 
                 </thead>
@@ -54,36 +58,88 @@ else
 
                     @foreach (Jogador jogador in ViewBag.Jogador)
                     {
-                        <tr class="table-line">
-                            <td class="number">@jogador.IdJogador</td>
-                            <td>@jogador.Nome</td>
-                            <td>@jogador.Email</td>
-                            @* <td>@jogador.Equipe.Nome</td> *@
-                            @* <td>@jogador.IdEquipe</td> *@
+                        if (equipe.IdEquipe == jogador.IdEquipe)
 
-                            <td> <img src="/img/Equipes/@jogador.Equipe.Imagem" width="50px" alt=""></td>
+                        {
+                            <tr class="table-line">
+                                <td class="number">@jogador.IdJogador</td>
+                                <td>@jogador.Nome</td>
+                                <td>@jogador.Email</td>
 
-                            @if (jogador.Email == ViewBag.Email)
-                            {
-                                
-                            <td class="icon-trash"><a asp-area="" asp-controller="Jogador" asp-action="Excluir"
-                                    asp-route-id="@jogador.IdJogador" style="text-decoration: none;"><img
-                                        src="~/assets/icons/icon-trash.svg" alt=""></a></td>
+                        @if (jogador.Email == ViewBag.Email)
+                        {
 
-                            <td><a asp-area="" asp-controller="Jogador" asp-action="Editar"
-                                    asp-route-id="@jogador.IdJogador" style="text-decoration: none;">✏️</a></td>
-                            }
-                            else{
-                                
-                            }
+        <td class="icon-trash"><a asp-area="" asp-controller="Jogador" asp-action="Excluir"
+        asp-route-id="@jogador.IdJogador" style="text-decoration: none;"><img
+        src="~/assets/icons/icon-trash.svg" alt=""></a></td>
 
-                        </tr>
-                    }
+        <td><a asp-area="" asp-controller="Jogador" asp-action="Editar"
+        asp-route-id="@jogador.IdJogador" style="text-decoration: none;">✏️</a></td>
+        }
+        else{
 
+        }
+
+        </tr>
+        }
+
+                        }
 
                 </tbody>
+                </table>
+                    }
 
-            </table>
+                </div>
+
+            }
+
+            @* <table>
+        <thead>
+
+        <tr>
+        <th>ID</th>
+        <th>Nome</th>
+        <th>Email</th>
+        <th>Equipe</th>
+        <th></th>
+        <th>Ações</th>
+        <th></th>
+        </tr>
+
+        </thead>
+
+        <tbody>
+
+        @foreach (Jogador jogador in ViewBag.Jogador)
+        {
+        <tr class="table-line">
+        <td class="number">@jogador.IdJogador</td>
+        <td>@jogador.Nome</td>
+        <td>@jogador.Email</td>
+
+        <td> <img src="/img/Equipes/@jogador.Equipe.Imagem" width="50px" alt=""></td>
+
+        @if (jogador.Email == ViewBag.Email)
+        {
+
+        <td class="icon-trash"><a asp-area="" asp-controller="Jogador" asp-action="Excluir"
+        asp-route-id="@jogador.IdJogador" style="text-decoration: none;"><img
+        src="~/assets/icons/icon-trash.svg" alt=""></a></td>
+
+        <td><a asp-area="" asp-controller="Jogador" asp-action="Editar"
+        asp-route-id="@jogador.IdJogador" style="text-decoration: none;">✏️</a></td>
+        }
+        else{
+
+        }
+
+        </tr>
+        }
+
+
+        </tbody>
+
+        </table> *@
         </article>
 
     </section>
